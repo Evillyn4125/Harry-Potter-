@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap')
+
 body{
     background-color: rgb(243, 147, 147);
     color:black;
@@ -5,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0;
-    font-family: "@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap')";
+    font-family: "Dancing Script", cursive;
 }
 button{
     background-color: red;
@@ -16,4 +18,7 @@ button{
 main{
     text-align: center;
     max-width: 90%;
+}
+.img01{
+    width: 102%;
 }
