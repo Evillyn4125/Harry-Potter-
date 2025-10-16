@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 5;
+    margin: ;
     font-family: "Dancing Script", cursive;
 }
 button{
@@ -21,4 +21,7 @@ main{
 }
 .img01{
     width: 102%;
+}
+.passo.ativo{
+    display: block;
 }
