@@ -6,11 +6,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: ;
+    margin: 0;
     font-family: "Dancing Script", cursive;
+    font-size: 10px;
 }
 button{
-    background-color: red;
+    background-color: rgb(238, 71, 71);
     color: white;
     padding: 30px;
     
