@@ -5,4 +5,6 @@ avanca.forEach(button =>{
 button.addEventListen('click', function(){
 
 })
+}
 
+}
